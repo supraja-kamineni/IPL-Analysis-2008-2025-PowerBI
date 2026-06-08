@@ -34,7 +34,7 @@ To create an interactive dashboard that provides season-wise insights into IPL p
 The project uses the following datasets:
 
 ### 1. IPL Matches Data
-Contains:<a href="https://github.com/supraja-kamineni/IPL-Analysis-2008-2025-PowerBI/blob/main/teams_data.csv">IPL Matches Data</a>
+Contains: <a href="https://github.com/supraja-kamineni/IPL-Analysis-2008-2025-PowerBI/blob/main/teams_data.csv">IPL Matches Data</a>
 
 - Match ID
 - Season
@@ -44,7 +44,7 @@ Contains:<a href="https://github.com/supraja-kamineni/IPL-Analysis-2008-2025-Pow
 - Match Result
 
 ### 2. Ball By Ball Data
-Contains:
+Contains: <a href="https://github.com/supraja-kamineni/IPL-Analysis-2008-2025-PowerBI/blob/main/ball_by_ball_data.xlsb">Ball By Ball Data</a>
 
 - Batter Runs
 - Total Runs
@@ -53,14 +53,15 @@ Contains:
 - Match Events
 
 ### 3. Players Data
-Contains:
+Contains: <a href="https://github.com/supraja-kamineni/IPL-Analysis-2008-2025-PowerBI/blob/main/players-data-updated.csv">Players Data</a>
 
 - Player Name
 - Player Image URL
 - Team Information
 
 ### 4. Teams Data
-Contains:
+Contains: <a href="https://github.com/supraja-kamineni/IPL-Analysis-2008-2025-PowerBI/blob/main/teams_data.csv">Teams Data</a>
+
 
 - Team Name
 - Team Logo URL
@@ -69,11 +70,7 @@ Contains:
 
 # 📊 Dashboard Features
 
-## Season Filter
-
-Users can select any IPL season between **2008 and 2025** and all visuals update dynamically.
-
----
+<img width="790" height="453" alt="IPL(2008-2025)Powerbi-Dashboard" src="https://github.com/user-attachments/assets/fc871149-496c-4a59-ab1f-5f36872af5c1" />
 
 # 🏆 Primary KPIs
 
@@ -260,11 +257,6 @@ Total Points =
 - Match ID → Match Table
 - Team Name → Team Dimension
 - Player Name → Player Dimension
-
----
-
-# 📷 Dashboard Screenshot
-
 
 ---
 
